@@ -45,6 +45,17 @@ The daily JS code challenges provide excellent practice in the fundumentals by h
 
 ## Committing and Pushing your Work
 
-- Your instructors will be checking your progress from time-to-time. As you solve the challenges, commit your work, and `$ git push origin master`. This pushes the updates to your fork.
+As you solve the challenges make sure commit your work and push it up to Github.
+
+Common git commands
+
+Add work to the staging area
+`git add -A` 
+
+Commit your work
+`git commit -m 'your commit message'`
+
+Push your commits up to github
+`git push origin main`
 
 
