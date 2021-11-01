@@ -1,10 +1,11 @@
-<img src="https://i.imgur.com/2y0Lyzy.png" height="50">
-
-# SEI Daily Code Challenges
+<h1>
+  <img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="logo" style="max-width:100%;" /> 
+  SEI Daily Code Challenges
+</h1>
 
 ## Intro
 
-During your 12 weeks in SEI, your instructors will be helping you learn tons of coding knowledge and skills using a proven approach where each lesson typically includes a mixture of:
+During your time in SEI, your instructors will be helping you learn tons of coding knowledge and skills using a proven approach where each lesson typically includes a mixture of:
 
 - Instructor lecture & demonstration
 - Instructor/student code alongs
@@ -19,13 +20,12 @@ The daily JS code challenges provide excellent practice in the fundumentals by h
 
 ## Set Up
 
-1. Fork this repo into your GHE account by clicking the **[Fork]** button in the top-right of the page.
+1. Fork this repo into your GitHub account by clicking the **[Fork]** button in the top-right of the page.
 
 2. Since you cannot have nested repos, be sure to move outside of the class, or any other repo before the next step.
 
 3. To bring the materials in the repo into your computer, clone *your fork* of the repo by copying the URL shown when you click the **[Clone or download]**: `$ git clone <the copied URL>`
 
-4. Slack your instructors the link to your fork so that they can monitor your progress.
 
 ## Instructions
 
@@ -57,5 +57,3 @@ Commit your work
 
 Push your commits up to github
 `git push origin main`
-
-
