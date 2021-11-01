@@ -16,7 +16,7 @@ However, true learning doesn't take place until students practice what they've b
 
 To provide practice in class, many lessons are followed with post-lesson labs. And of course, there's project week, where students often feel they learn the most.
 
-The daily JS code challenges provide excellent practice in the fundumentals by having you work through small, focused challenges and working on your understanding of functions.
+The daily JS code challenges provide excellent practice in the fundamentals by having you work through small, focused challenges and working on your understanding of functions.
 
 ## Set Up
 
